@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">The Movie Database</string>
+    <string name="splash">Welcome to</string>
+    <string name="powered">Powered by</string>
+    <string name="by">themoviedb.org</string>
+    <string name="movie">Movies</string>
+    <string name="tv">Tv Shows</string>
+    <string name="title">Title</string>
+    <string name="desc">Description</string>
+    <string name="date">Date</string>
+    <string name="genre">Genre</string>
+    <string name="director">Director</string>
+    <string name="story">Story</string>
+    <string name="screen">Screenplay</string>
+    <string name="overview">Overview</string>
+    <string name="creator">Creator</string>
+    <string name="detailMovie">Detail Movie</string>
+    <string name="detailTV">Detail TV Show</string>
+    <string name="rating_count">(%d)</string>
+    <string name="menu_favorite">Favorite List</string>
+    <string name="best">Best Vote</string>
+    <string name="worst">Worst Vote</string>
+    <string name="random">Random</string>
+    <string name="undo">Undo</string>
+    <string name="ok">Ok</string>
+    <string name="add_to_favorite">Add To Favorite</string>
+</resources>
